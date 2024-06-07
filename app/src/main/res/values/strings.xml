@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="home_page">Home Page</string>
+    <string name="today_s_progress_summary">Today\'s progress summary</string>
+    <string name="today_s_task">Today\'s Task</string>
+    <string name="create_new_task">Create New Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="enter_task_name">Enter Task Name</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete_all">Delete All</string>
+</resources>
